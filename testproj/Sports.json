@@ -1,0 +1,11 @@
+
+{
+    "oldest":"2020-11-23T00:00:00+00:00",
+    "activities":[
+    {
+        "message":"<strong>Henrik</strong> didn't resist a guilty pleasure at <strong>Starbucks</strong>.",
+        "amount":2.5,
+        "userId":2,
+        "timestamp":"2021-04-06T00:00:00+00:00"
+    }]
+}
